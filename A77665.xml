@@ -1,0 +1,343 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rules for kings, and good counsell for subjects: being a collection of certaine places of holy Scripture, directing the one to governe, and the other to obey. Most necessary for all men that are desirous to square their actions according to the rule of God's Law. Whereunto is added a prayer for the King. In these times of contradictions.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77665</idno>
+            <idno type="STC">Wing B5105A</idno>
+            <idno type="STC">Thomason E107_19</idno>
+            <idno type="STC">ESTC R21701</idno>
+            <idno type="EEBO-CITATION">99871481</idno>
+            <idno type="PROQUEST">99871481</idno>
+            <idno type="VID">123892</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77665)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123892)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E107[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rules for kings, and good counsell for subjects: being a collection of certaine places of holy Scripture, directing the one to governe, and the other to obey. Most necessary for all men that are desirous to square their actions according to the rule of God's Law. Whereunto is added a prayer for the King. In these times of contradictions.</title>
+                  <author>Browne, Edward.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, for T. Paibody, and E. Dobson, and are to be sold in Queens-head-Alley in Pater noster-row,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Compiler's note "To the reader" signed: E.B., i.e. Edward Browne.</note>
+                  <note>Annotation on Thomason copy: "July ye 6th 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Divine right of kings --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123892:1" rendition="simple:additions"/>
+            <p>Rules for Kings, AND Good Counſell for Subjects: Being a collection of certaine places of holy Scripture, directing the one to Governe, and the other to obey.</p>
+            <p>Moſt neceſſary for all men that are deſirous to ſquare their actions according to the Rule of God's Law.</p>
+            <p>Whereunto is added a Prayer for the KING <hi>In theſe times of Contradictions.</hi>
+            </p>
+            <figure>
+               <figDesc>classical scene with two people</figDesc>
+            </figure>
+            <p>LONDON, Printed, for <hi>T. Paibody,</hi> and <hi>E. Dobſon,</hi> and are to be ſold in <hi>Queens-head-Alley</hi> in Pater noſter-row, 1642.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:123892:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N a time when humane learning, and the diſcipline and precepts of men are ſo much deſpiſed, as in theſe our days; I thought it not labour loſt to ſpend ſome minutes in collecting a few Texts of Scripture, which may be ſuppoſed the men of this age have either never read, or totally forgotten. To which ſhort ſentence, I have added none of myne own, leſt to the Zealots it ſhould appeare Apocryphall, or my ſelfe ſeem to arrogate the wiſdom of the ſon of <hi>Sirach.</hi> But accord<g ref="char:EOLhyphen"/>ing to the times, with as little learning and diſcretion as may be, I have in a very diſorderly order patch them up under ſeverall heads; The firſt two being of commands, that we ſhould reverence our Prince, which I hope will be obeyed, though he were a Tyrant. For the third, that the King loveth Iudgement: Thoſe that thinke he ful<g ref="char:EOLhyphen"/>fils not the Scripture in that, let them fulfill it themſelves in praying for him, which if done in faith no doubt they ſhall obtaine that bleſ<g ref="char:EOLhyphen"/>ſing, and (according to the two next points) will follow Gods care of his annoynted and a puniſhment on his advarſaries: that we may re<g ref="char:EOLhyphen"/>ceive him again with triumph and thankſgiving. Laſtly, if it be ac<g ref="char:EOLhyphen"/>knowledged to be an office <hi>Jure Divine,</hi> (by all good Chriſtians I am ſure it is) the laſt point, an exhortation to obedience will not be unſeaſonable, concluding with a Prayer, that under him we may lead a quiet and peaceable life, in all godlineſſe and honeſty, and that we may ſo do: God of his Mercy grant us for his ſon <hi>Chriſt Jeſus</hi> ſake our Saviour and Redeemer.</p>
+            <closer>
+               <signed>Thine <hi>E. B.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:123892:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:123892:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:123892:3"/>
+            <head>Rules for Kings, and good Coun<g ref="char:EOLhyphen"/>ſell for Subjects.</head>
+            <div type="part">
+               <head>Speake not evill of the King.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">A</seg>Cts</hi> 23.5. Thou ſhalt not ſpeak evill of the Ruler of thy people.</p>
+               <p>
+                  <hi>Eccleſ.</hi> 10.20. Curſe not the King, no not in thy thought, for a bird of the ayre ſhall carry the voyce, and that which hath wings ſhall carry the matter.</p>
+               <p>
+                  <hi>Prov.</hi> 30.32. If thou haſt thought evill of the King, Iay thine hand upon thy mouth.</p>
+               <p>
+                  <hi>Jude</hi> 8. Theſe filthy dreamers deſpiſe dominion, &amp; ſpeak evil of dignities.</p>
+               <p>
+                  <hi>V.</hi> 10. But theſe ſpeake evill of thoſe things which they know not, but what they know naturally.</p>
+               <p>
+                  <hi>V.</hi> 11. Not unto them, for they ſhall periſh in the gainſaying of <hi>Core.</hi>
+               </p>
+               <p>2 <hi>Pet.</hi> 2.9. The Lord knoweth how to reſerve the unjuſt to the day of Iudgement to be puniſhed.</p>
+               <p>
+                  <hi>V.</hi> 10. But chiefly them that deſpiſe government, preſumptions are they, ſelfe willed, they are not afraid to ſpeak evill of dignities.</p>
+               <p>
+                  <hi>V.</hi> 12. But theſe are naturall bruit beaſts, made to be taken and deſtroyed, ſpeake evill of the things that they underſtand not, and ſhall utterly periſh in their own corruption.</p>
+               <p>
+                  <hi>V.</hi> 13. And ſhall receive the reward of righteouſneſſe.</p>
+               <p>2 <hi>Sam.</hi> 19.21. Shall not <hi>Shemei</hi> be put to death for this, becauſe he curſed the Lords annoynted.</p>
+               <p>1 <hi>King.</hi> 2.9. Now therefore hold him not guiltleſſe, for thou art a wiſe man, and knoweſt what thou oughteſt to do unto him, but his hoare head bring thou down to the grave with bloud.</p>
+               <p>
+                  <hi>Exod.</hi> 22.28. Thou ſhalt not revile the Iudges, not curſe the Ruler of thy people.</p>
+            </div>
+            <div type="part">
+               <head>Exalt not thy ſelfe againſt the King.</head>
+               <p>
+                  <hi>ECcleſ.</hi> 8.3. Be not haſty to go out of his ſight: ſtand not in an evill thing for he doth whatſoever pleaſeth him.</p>
+               <p>
+                  <hi>V.</hi> 4. Where the word of a King is, there is power; and who may ſay unto him what doeſt thou?</p>
+               <p>
+                  <hi>Prov.</hi> 16.14. The wrath of a King is as meſſengers of death; but a wiſe man will pacifie it.</p>
+               <p>
+                  <hi>Chap.</hi> 19.12. The Kings wrath is as the roaring of a Lyon, but his favour is as dew upon the graſſe.</p>
+               <p>
+                  <hi>V.</hi> 10. Delight is not ſeemely for a foole, much leſſe for a ſervant to have rule over Princes.</p>
+               <pb n="4" facs="tcp:123892:4"/>
+               <p>
+                  <hi>Cha.</hi> 17.26. To puniſh the Iuſt is not good, not to ſtrick Princes for equity.</p>
+               <p>
+                  <hi>Cha.</hi> 25.6. Put not forth thy ſelfe in the preſence of the King, and ſtand not in the place of great men.</p>
+               <p>
+                  <hi>V.</hi> 7. For better is it that it be ſaid unto thee, come up hither, than that thou ſhould'ſt be put lower in the preſe<g ref="char:cmbAbbrStroke">̄</g>ce of the Prince who<g ref="char:cmbAbbrStroke">̄</g> thine eyes have ſeen.</p>
+               <p>
+                  <hi>Cha.</hi> 30.31. Againſt a King there is no riſing up.</p>
+               <p>
+                  <hi>V.</hi> 32. If thou haſt done fooliſhly in lifting up thy ſelfe, lay thine hand up<g ref="char:EOLhyphen"/>on thy mouth.</p>
+               <p>
+                  <hi>Cha.</hi> 20.2. The feare of a King is as the roaring of a Lyon, who ſo provo<g ref="char:EOLhyphen"/>keth him to anger, ſinneth againſt his own ſoule.</p>
+            </div>
+            <div type="part">
+               <head>The King loveth Iudgement.</head>
+               <p>
+                  <hi>Prov.</hi> 16.10. A Divine ſentence is in the lips of the King, his mouth tranſgreſſeth not in Iudgement.</p>
+               <p>
+                  <hi>V.</hi> 12. It is an abomination to Kings to commit wickedneſſe, for the throne is eſtabliſhed by righteouſneſſe.</p>
+               <p>
+                  <hi>V.</hi> 13. Righteous lips are the delight of Kings, and they love him that ſpeaketh right.</p>
+               <p>
+                  <hi>Cha.</hi> 20 8. A King that ſitteth in the throne of judgement ſcattereth away all evill with his eyes</p>
+               <p>
+                  <hi>V.</hi> 20. A wiſe King ſcattereth the wicked, and bringeth the wheele over them.</p>
+               <p>
+                  <hi>V.</hi> 28. Mercy and truth, preſerve the King, and his throne is upholden by mercy.</p>
+               <p>
+                  <hi>Cha.</hi> 22.11. He that loveth pureneſſe of heart, for the grace of his lipps, the King ſhall be his friend.</p>
+               <p>
+                  <hi>V.</hi> 29. Seeſt thou a man diligent in his buſineſſe? he ſhall ſtand before Kings, he ſhall not ſtand before meane men.</p>
+               <p>
+                  <hi>Cha.</hi> 29 4. The King by judgement eſtabliſhed the land.</p>
+               <p>
+                  <hi>V.</hi> 14. The King that faithfully judgeth the poore, his throne ſhall be eſta<g ref="char:EOLhyphen"/>bliſhed for ever.</p>
+               <p>
+                  <hi>Rom.</hi> 13.3. Rulers are not a terror to good works but to the evill, wilt thou then not be afraid of the power? do that which is good, and thou ſhalt have praiſe of the ſame.</p>
+               <p>
+                  <hi>V.</hi> 4. For he is the Miniſter of God to thee for good, but if thou do that which is evill, be afraid: For he beareth not the ſword in vaine, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or he is the Miniſter of God, a revenger to execute wrath upon him that doth evill.</p>
+               <p>
+                  <hi>Pſa.</hi> 72 4. The King ſhall judge the poore of the people, he ſhall ſave the children of the needy, and ſhall break in pieces the oppreſſor.</p>
+               <p>1 <hi>Pet.</hi> 2.14. He is ſent for the puniſhment of evill doers, and for the prayſe of them that do well.</p>
+            </div>
+            <div type="part">
+               <head>Gods care of his Annoynted.</head>
+               <p>
+                  <hi>PSal</hi> 105.15. Touch not mine Annoynted, and do my Prophets no harme. 2 <hi>Sam.</hi> 22.49. It is God that bringeth me forth from mine enemies, thou haſt delivered me from the violent man.</p>
+               <pb n="5" facs="tcp:123892:4"/>
+               <p>
+                  <hi>V.</hi> 51. He is the tower of Salvation for his King, and ſheweth mercy to his Annoynted.</p>
+               <p>
+                  <hi>Pſa.</hi> 18.50. Great deliverance giveth he to his King, and ſheweth mercy to his annoynted.</p>
+               <p>
+                  <hi>Pſa.</hi> 28.8. The Lord is his ſtrength, he is the ſaving ſtre<g ref="char:cmbAbbrStroke">̄</g>gth of his anointed.</p>
+               <p>
+                  <hi>Pſa</hi> 20.6. Now know that the Lord ſaveth his annoynted, he will heare him from his holy heaven, with the ſaving ſtrength of his right hand.</p>
+               <p>
+                  <hi>Pſa.</hi> 21.3. Thou preventeſt him with the bleſſings of goodneſſe, thou ſet<g ref="char:EOLhyphen"/>teſt a crown of pure gold upon his head.</p>
+               <p>
+                  <hi>V.</hi> 5. Honour and Majeſty haſt thou laid upon him.</p>
+               <p>
+                  <hi>V.</hi> 6. For thou haſt made him bleſſed for ever, thou haſt made him excee<g ref="char:EOLhyphen"/>ding glad with thy countenance.</p>
+               <p>
+                  <hi>Pſal.</hi> 61.6. Thou wilt prolong the Kings life, and his yeares, as many ge<g ref="char:EOLhyphen"/>nerations.</p>
+               <p>
+                  <hi>V.</hi> 7. He ſhall abide before God for ever.</p>
+            </div>
+            <div type="part">
+               <head>The puniſhment of his Adverſaries.</head>
+               <p>1 <hi>SAm.</hi> 11.12. And the people ſaid unto <hi>Samuel,</hi> who is he that ſaid, ſhall <hi>Saul</hi> raigne over us? bring the men that we may put them to death.</p>
+               <p>
+                  <hi>Joſ.</hi> 1.18. Whoſoever he be that doth rebell againſt thy commandement, and will not hearken unto thy words in all things that thou commandeſt him, he ſhall be put to death.</p>
+               <p>
+                  <hi>Pſa.</hi> 45.5. Thine arrows are ſharp in the heart of the Kings enemies, whereby the people fall under thee.</p>
+               <p>
+                  <hi>Pſa.</hi> 89.23. I will beat down his foes before his face, and plague them that hate him.</p>
+               <p>
+                  <hi>Pſa.</hi> 132 18. His enemies wil I cloth with ſhame, but upon himſelf ſhal his crown flouriſh.</p>
+            </div>
+            <div type="part">
+               <head>His Triumph and Thanksgiving.</head>
+               <p>
+                  <hi>PSal.</hi> 144.1. Bleſſed be the Lord my ſtrength, which teacheth my hands to war and my fingers to fight.</p>
+               <p>
+                  <hi>V.</hi> 2. My goodneſſe and my fortreſſe, my high tower and my deliverer, my ſhield and he in whom I truſt, who ſubdued my people under me.</p>
+               <p>
+                  <hi>V.</hi> 10. It is he that giveth ſalvation to Kings, who delivereth <hi>David</hi> his ſervant from the hurtfull ſword.</p>
+               <p>
+                  <hi>Pſa.</hi> 21.2. Thou haſt given him his hearts deſire, and haſt not witholden the requeſt of his lips.</p>
+               <p>1 <hi>Sam.</hi> 2.10. The adverſaries of the Lord ſhall be broken to pieces, out of heaven ſhall be thunder upon them: The Lord ſhall judge the ends of the earth, &amp; he ſhall give ſtrength unto his K. &amp; exalt the horn of his Annointed</p>
+               <p>2 <hi>Sam.</hi> 22.40. Thou haſt guided me with ſtrength to battle, them that roſe up againſt me, haſt thou ſubdued under me. <hi>V.</hi> 44. Thou haſt delivered me from the ſtrivings of my people. <hi>V.</hi> 47. The Lord liveth and bleſſed be my rock, and exalted be the God of the rock of my ſalvation. <hi>V.</hi> 48. It is God that avengeth me, and that bringeth down the people under me. <hi>V.</hi> 49. Thou alſo haſt lifted me up on high, above them that roſe up againſt me, thou haſt delivered me from the violent man,</p>
+               <pb n="6" facs="tcp:123892:5"/>
+               <p>
+                  <hi>V.</hi> 50. Therefore will I give thanks to theee, O Lord, among the heather and will ſing prayſes unto thy Name.</p>
+            </div>
+            <div type="part">
+               <head>Exhortation to Odedience.</head>
+               <p>1 <hi>PEt.</hi> 2.13. Submit your ſelves to every ordinance of man for the Lords ſake, whether it be to the King as Supreame.</p>
+               <p>
+                  <hi>V.</hi> 14. O<g ref="char:punc">▪</g> unto Governors, as unto them as are ſent by him.</p>
+               <p>
+                  <hi>V.</hi> 17. Feare God, honor the King.</p>
+               <p>
+                  <hi>Tit.</hi> 3.1. Put them in mind to be ſubject unto the higher powers, to obey Magiſtrates, to be ready to every good work.</p>
+               <p>
+                  <hi>Rom.</hi> 13.1. Let every ſoule be ſubject unto the higher powers: for there is no power but of God, the powers that be are ordained of God.</p>
+               <p>
+                  <hi>V.</hi> 2. Whoſoever therfore reſiſteth the power, reſiſteth the ordinance of God: and they that reſiſt, ſhall receive to themſelves damnation.</p>
+               <p>
+                  <hi>V.</hi> 5. Wherefore ye muſt needs be ſubject not only for wrath, but alſo for conſcience ſake.</p>
+               <p>
+                  <hi>V.</hi> 6. For this cauſe pay you tribut alſo, for they are Gods Miniſters atten<g ref="char:EOLhyphen"/>ding continually upon this very thing.</p>
+               <p>
+                  <hi>V.</hi> 7. Render therfore to all their dues, tribut to whom tribut is due, cu<g ref="char:EOLhyphen"/>ſtome to whom cuſtom, feare to whom feare, honor to whom honor.</p>
+               <p>
+                  <hi>Mark.</hi> 12.17. Render to Caeſar the things that are Caeſars, and to God the things that are Gods.</p>
+               <p>
+                  <hi>Eccleſ.</hi> 8.2. I counſell thee to keep the Kings command, and that in re<g ref="char:EOLhyphen"/>gard of the oath of God.</p>
+            </div>
+            <div type="part">
+               <head>Pray for the King.</head>
+               <p>1 <hi>Tim.</hi> 2.1. I exhort therefore that firſt of all ſupplications, prayers, inter<g ref="char:EOLhyphen"/>ceſſions and giving of thanks be made for all men.</p>
+               <p>
+                  <hi>V.</hi> 2. For Kings and all that are in authority, that we may lead a quiet and peaceable life, in all godlineſſe and honeſty.</p>
+               <p>
+                  <hi>V.</hi> 3. For this is good and acceptable in the ſight of God our Saviour.</p>
+            </div>
+         </div>
+         <div type="prayer">
+            <head>A Prayer for the King.</head>
+            <p>
+               <seg rend="decorInit">G</seg>Ive the King thy Iudgements, O God, and thy righteouſneſſe unto the Kings ſon, <hi>Pſal 72.1.4.</hi> That he may judge the poore of the people, and ſave the children of the needy, and break in pieces the oppreſſor, <hi>Prov. 25.5.</hi> Take away the wicked, O God, from before the King, that his throne may be establiſhed in righteouſneſſe, <hi>Pſal. 89.44.</hi> But, O Lord, how haſt thou made his glory to ceaſe, and caſt his throne down to the ground, <hi>Prov. 28.2.</hi> Even for the tranſgreſſion of our land, many are the Princes thereof. It is for our manifold ſins and offences, O God, that <hi>Pſal. 89.38.</hi> thou haſt cast off and abhorred, that thou haſt been wroth with
+<pb n="7" facs="tcp:123892:5"/>thine annoynted, <hi>V. 42.</hi> Thou haſt ſet up the right hand of his adverſaries: thou haſt made all his enemies to rejoyce: <hi>Lam. 3.14.</hi> He hath been a deriſion to all his people, and their ſong all the day. <hi>Ezek. 7.27.</hi> ô God, thou haſt cauſed the King to mourn, and the Prince haſt thou clothed with deſolation, &amp; the hands of the people of the land are troubled; <hi>2 Sam. 3.39.</hi> He is now weak ô Lord, though annointed King and theſe men the ſons of <hi>Zerviah,</hi> be too hard for him, thou, ô Lord, ſhall reward the doers of evill according to their wickedneſſe: <hi>Eze. 11.2.</hi> Theſe ô Lord, are the men that deviſe miſchiefe, and give wicked councell in this City. <hi>Eccleſ. 10.7.</hi> O God we have ſeen ſervants upon horſes, and I rinces walking as ſervants upon the earth: <hi>Lam. 5.8.</hi> Servants have ruled over us, ô Lord, and there is none that doth deliver us out of their hand: <hi>Cha. 4.20.</hi> The annoynted of thee, ô Lord, hath beene taken in their pits, of whom we ſaid, under his ſhadow we ſhall live among the heathen, <hi>Chro. 21.17.</hi> Even we it is that have ſinned, and done evill indeed, but as for thine annoynted what hath he done? Lot thine hand we pray thee, ô Lord our God, be on us, but not on thine annoynted that he ſhould be plagued, <hi>2 Sam. 18 3.</hi> for he is worth ten thouſand of us: <hi>Pſal. 89.46.</hi> Lord, how long wilt thou hide thy ſelfe for ever? ſhall thy wrath burn like fire? <hi>V. 50.</hi> Remember Lord, the reproach of thy ſervant, how he doth beare in his boſome the reproach of all the mighty people: <hi>V. 51.</hi> Wherewith thine enemies have reproached, ô Lord, where<g ref="char:EOLhyphen"/>with they have reproached the foot-steps of thine annoynted. <hi>2 Sam. 20.21.</hi> If there be any ſon of <hi>Bichri</hi> that ſhall lift up his hand against the King, Deliver him, ô Lord, and let the people cut off his head, that the trumpet may ſound a re<g ref="char:EOLhyphen"/>treat of peace in our land: <hi>Numb. 16.32.</hi> Thou that dideſt cauſe the earth to ſwallow up the congregation of <hi>Korah, V. 35.</hi> and conſ<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>medſt with ſire thoſe <hi>250</hi> Princes of the Aſſembly, that were famous in the Congrega<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, for rebel<g ref="char:EOLhyphen"/>ling agaiſt <hi>Moſes, V. 5.</hi> Protect and defend him, ô Lord, whom thou haſt choſen from the outrage of his people, and cauſe him to come neere unto thee, <hi>Chap. 17.10</hi> and let his rod bud and bloſſome to be kept for a taken, againſt thoſe Rebels that riſe up againſt him, <hi>1 Sam. 24.8.</hi> and let them ſtoup with their face to the earth, and bow themſelves before thine annoynted: <hi>V 10.</hi> Let their eyes ſpare him, ô Lord, and let not them put forth their hand againſt our Lord the King, for hee is thine annoynted: <hi>V. 5.</hi> Let their hearts (mite them, yea do thou ſmite thoſe, ô Lord, that ſhall cut off his skirt, or d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>veſt him of his Royall roab and authority. <hi>Chap. 26 9.</hi> And let none that ſtretch forth their hands against thine annoyn<g ref="char:EOLhyphen"/>ted be guiltleſſe. <hi>Iudges 17.6.</hi> Let us not ſee ſuch dayes, ô God, as when there was no King in Iſrael, leſt every man do that which is right in his own eyes: <hi>V. 5.</hi> and make himſelfe Gods, and conſecrate his ſons for his prieſts, or take to himſelfe Priests without conſecration. O Lord God, put an end to theſe dayes of trouble and confuſion, and thou having given us a just King, not in thine anger, but in thy mercy, give us joy of our King, and <hi>Pſalme 63.11.</hi> let the King rejoyce in thee, ô God, and let the mouth of thoſe that ſpeake lyes be ſtopped, <hi>V. 9.</hi> and thoſe that ſeeke his ſoule to destroy it, let them go into the lower parts of the earth; <hi>Verſ. 10.</hi> and let them fall by the ſword, and be a portion for Foxes: <hi>Pſal. 18.47</hi> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>de thou, ô God, his avenger, and ſubdue the people under him. <hi>Iſaiah 45.1.</hi> Thou,
+<pb n="8" facs="tcp:123892:6"/>ô Lord God that didſt annoynt <hi>Cyrus,</hi> whoſe hand thou didſt ſtrengthen to ſubdue Nations before him, before whom thou didſt open the two leaved gates; <hi>Verſe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore whom thou didſt go, to make the crooked places ſtraight, and to breake in pieces the gates of braſſe: <hi>V. 3.</hi> To whom thou gaveſt the hidden riches of ſecret places, <hi>V. 4</hi> that didſt call him by his name, though he knew thee not; <hi>Verſe 5.</hi> That didſt gird him, though thou wert unkown unto him; preſerve thou thy ſer<g ref="char:EOLhyphen"/>vant our gracious King, and <hi>2 Sam. 22.40.</hi> gird him, ô Lord, with ſtrength in battle th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thoſe that riſe against him, may be ſubdued under him, <hi>Ver. 44.</hi> and deliver him, ô God<g ref="char:punc">▪</g> from the ſtrivings of his people: Let the ſervants of our Lord the King be no longer a reproach and a by-word, let them not be called evill coun<g ref="char:EOLhyphen"/>ſellors and enemies to the ſtate that endeavour to do him ſervice: <hi>Proverbs 19.6</hi> But let many entreat the favour of our good Prince, <hi>Chap. 16.15.</hi> and in the light of the Kings countenance, let there be life, and let his favour be as a cloud of the latter raine. <hi>Eſter 6.7.</hi> And for the man whom the King delighteth to honour, <hi>V. 9.</hi> let him be clothed in Royall apparell, and let him be brought on horſeback through the City, and proclaimed before him, thus ſhall it be done to the man whom the King delighteth to honour; and we beſeech thee, ô God, <hi>Iſaiah 33.17.</hi> Let our eyes ſee the King in his beauty, and <hi>Pſalm. 28.8.</hi> be thou his ſtrength, ô Lord, and the wholeſome defence of his annoynted: <hi>Pſalme 21.1.</hi> Let the King joy in thy ſtrength, ô Lord, and in thy ſalvation, let him greatly rejoyce, <hi>Verſe 2.</hi> Give him his hearts deſire, and withold not the request of his lips, <hi>V. 7.</hi> Let the King truſt in thee, ô Lord, &amp; through the mercy of thou, the moſt highest, let him not be moved; <hi>V. 5.</hi> Let his glory be great in thy ſalvation; <hi>Pſalme 89.26.</hi> Let him cry unto thee, thou art his Father, his God and the Rock of his Sal<g ref="char:EOLhyphen"/>vation. <hi>Pſal 61.6.</hi> O prolong thou the Kings life, and his yeares as many gene<g ref="char:EOLhyphen"/>rations: <hi>V. 7.</hi> Let him abide before thee, ô God, for ever: O prepare mercy and truth, which may preſerve him: <hi>2 Sam. 18.32.</hi> And let the enemies of our Lord the King, and all that riſe up againſt him, be as was that young man <hi>Abſo<g ref="char:EOLhyphen"/>lom. Chap. 7.29.</hi> Therefore now Lord let it pleaſe thee to bleſſe the houſes of thine annoynted, that it may continue for ever before thee: For thou, ô Lord God haſt ſpoken it, and with thy bleſſing, let the houſe of thy ſervant be bleſſed for e<g ref="char:EOLhyphen"/>ver: And this for the merits of Jeſus Chriſt our only Saviour and Redeemer.</p>
+            <closer>Amen.</closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
